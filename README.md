@@ -1,4 +1,4 @@
-# 📄 PDF RAG (Local Retrieval-Augmented Generation)
+# 📄 SupplyChain RAG Assistant (Local Retrieval-Augmented Generation)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline over PDF documents using local models.
 
